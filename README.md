@@ -1,17 +1,6 @@
 # Marketing-Analytics
 
-This repository is all my coursework related with marketing analytics, including:
-
-- Conjoint Analysis with Logit Model
-- RFM Analysis
-- Cluster Analysis
-- CLV Calculation
-- Market Basket Analysis
-- Linear Regression
-- Nonlinear Regression (Log-log Model)
-- Random Walk
-- Market Model
-
+This repository is all my coursework related with marketing analytics, including Conjoint Analysis with Logit Model, Cluster Analysis, RFM Analysis, Market Basket Analysis, Linear & Nonlinear Regression, Random Walk, etc.
 
 Project Name  | Description   |  Topic
 ------------- | ------------- | ------------------
